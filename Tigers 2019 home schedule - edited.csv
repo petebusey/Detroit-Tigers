@@ -1,0 +1,81 @@
+Month,day_of_week,Opp,W-L,Day_or_Night,Attendance,Streak,Promotion
+April,Thursday,KCR,5-3,D,42641,+++,
+April,Saturday ,KCR,6-3,D,22111,++++,Yes
+April,Sunday ,KCR,7-3,D,15058,+++++,Yes
+April,Tuesday ,CLE,7-4,D,12114,-,
+April,Wednesday ,CLE,8-4,D,11128,+,
+April,Thursday ,CLE,8-5,D,13910,-,
+April,Tuesday ,PIT,8-8,N,13251,----,
+April,Wednesday ,PIT,8-9,N,12994,-----,
+April,Thursday ,CHW,9-9,D,14320,+,
+April,Friday ,CHW,9-10,N,14568,-,
+April,Sunday ,CHW,10-10,D,15686,+,
+May,Friday ,KCR,14-15,N,14020,+,
+May,Saturday ,KCR,14-16,D,19500,-,
+May,Sunday ,KCR,15-16,D,16369,+,
+May,Tuesday ,LAA,15-17,N,14169,-,
+May,Wednesday,LAA,16-17,N,13224,+,
+May,Thursday ,LAA,16-18,D,16404,-,
+May,Monday ,HOU,18-21,N,15086,-,
+May,Tuesday ,HOU,18-22,N,14261,--,
+May,Wednesday ,HOU,18-23,N,15940,---,
+May,Thursday ,OAK,18-24,D,18527,----,
+May,Friday ,OAK,18-25,N,18746,-----,
+May,Saturday,OAK,18-26,D,22913,------,Yes
+May,Sunday ,OAK,18-27,D,15680,-------,
+May,Tuesday,MIA,18-28,N,15565,--------,
+May,Wednesday,MIA,18-29,N,14506,---------,
+May,Thursday,MIA,18-30,D,17214,----------,
+June,Tuesday ,TBR,23-35,N,15420,+,
+June,Wednesday ,TBR,23-36,N,14272,-,
+June,Thursday ,TBR,23-37,D,21442,--,
+June,Friday ,MIN,23-38,N,21551,---,Yes
+June,Saturday ,MIN,24-38,D,26818,+,Yes
+June,Sunday ,MIN,24-39,D,20127,-,Yes
+June,Friday ,CLE,25-42,N,22362,--,Yes
+June,Saturday ,CLE,25-43,N,25523,---,Yes
+June,Sunday ,CLE,25-44,D,26705,----,Yes
+June,Tuesday ,TEX,26-49,N,18952,-----,
+June,Wednesday ,TEX,26-50,N,19732,------,
+June,Thursday ,TEX,26-51,D,22925,-------,
+June,Friday ,WSN,26-52,N,20877,--------,Yes
+June,Saturday ,WSN,27-52,D,27716,+,Yes
+June,Sunday ,WSN,27-53,D,21052,-,
+July,Friday ,BOS,28-56,N,27181,-,Yes
+July,Saturday ,BOS,28-57,N,28114,--,Yes
+July,Sunday,BOS,28-58,D,23187,---,Yes
+July,Friday ,TOR,29-65,N,26498,-----,Yes
+July,Saturday ,TOR,29-66,N,28784,------,Yes
+July,Sunday ,TOR,30-66,D,22562,+,Yes
+July,Tuesday ,PHI,30-67,N,23607,-,
+July,Wednesday,PHI,30-68,D,33735,--,
+August,Monday ,CHW,32-77,N,16942,----,
+August,Tuesday ,CHW,32-78,D,18455,-----,
+August,Tuesday ,CHW,33-78,N,16367,+,
+August,Wednesday ,CHW,33-79,D,17444,-,
+August,Thursday,KCR,34-79,N,17197,+,
+August,Friday ,KCR,35-79,N,21475,++,Yes
+August,Saturday ,KCR,35-80,N,26028,-,Yes
+August,Sunday ,KCR,35-81,D,19790,--,Yes
+August,Tuesday ,SEA,35-82,N,16195,---,
+August,Wednesday ,SEA,36-82,N,17132,+,
+August,Thursday ,SEA,36-83,D,19440,-,
+August,Tuesday ,CLE,39-91,N,15715,---,
+August,Wednesday ,CLE,39-92,N,15834,----,
+August,Thursday ,CLE,39-93,D,16855,-----,
+August,Friday ,MIN,39-94,N,17273,------,Yes
+August,Saturday ,MIN,40-94,N,16713,+,
+September,Sunday ,MIN,40-95,D,13776,-,
+September,Monday ,MIN,40-96,D,14614,--,
+September,Tuesday ,NYY,43-100,N,16733,+,
+September,Thursday,NYY,43-101,D,,-,
+September,Thursday,NYY,43-102,N,17807,--,
+September,Friday,BAL,43-103,N,14722,---,
+September,Saturday ,BAL,44-103,N,17760,+,
+September,Sunday ,BAL,44-104,D,15688,-,
+September,Monday ,BAL,45-104,D,14142,+,
+September,Friday ,CHW,45-108,N,15265,----,
+September,Saturday,CHW,45-109,N,16891,-----,Yes
+September,Sunday ,CHW,46-109,D,16157,+,
+September,Tuesday ,MIN,46-110,N,16174,-,
+September,Wednesday ,MIN,46-111,N,16242,--,
