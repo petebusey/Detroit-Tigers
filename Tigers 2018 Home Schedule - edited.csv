@@ -1,0 +1,82 @@
+Month,Date,day_of_week,Opp,W-L,Day_or_Night,Attendance,Streak,Promotion
+March,Friday Mar 30,Friday ,PIT,0-1,D,42516,-,
+April,Sunday Apr 1 (1),Sunday,PIT,0-2,D,14858,--,Yes
+April,Sunday Apr 1 (2),Sunday,PIT,0-3,N,18438,---,
+April,Monday Apr 2,Monday,KCR,1-3,D,15476,+,
+April,Tuesday Apr 3,Tuesday,KCR,1-4,D,15083,-,
+April,Friday Apr 13,Friday,NYY,4-9,N,21363,-----,
+April,Tuesday Apr 17,Tuesday,BAL,5-9,N,15530,+,
+April,Wednesday Apr 18,Wednesday,BAL,6-9,D,15178,++,
+April,Thursday Apr 19,Thursday,BAL,7-9,D,15916,+++,
+April,Friday Apr 20 (1),Friday,KCR,8-9,D,15406,++++,
+April,Friday Apr 20 (2),Friday,KCR,8-10,N,17194,-,
+April,Saturday Apr 21,Saturday,KCR,9-10,D,19302,+,
+April,Sunday Apr 22,Sunday,KCR,9-11,D,19034,-,
+April,Monday Apr 30,Monday,TBR,11-16,N,19398,--,
+May,Tuesday May 1,Tuesday,TBR,12-16,N,17255,+,
+May,Wednesday May 2,Wednesday,TBR,13-16,D,20866,++,
+May,Saturday May 12 (1),Saturday,SEA,16-21,D,,+,
+May,Saturday May 12 (2),Saturday,SEA,16-22,N,25506,-,Yes
+May,Sunday May 13,Sunday,SEA,17-22,D,24718,+,Yes
+May,Monday May 14,Monday,CLE,18-22,N,17775,++,
+May,Tuesday May 15,Tuesday,CLE,19-22,N,20997,+++,
+May,Wednesday May 16,Wednesday,CLE,19-23,D,24771,-,
+May,Friday May 25,Friday,CHW,22-28,N,24648,++,
+May,Saturday May 26,Saturday,CHW,22-29,D,27032,-,Yes
+May,Sunday May 27,Sunday,CHW,23-29,D,23419,+,Yes
+May,Monday May 28,Monday,LAA,24-29,D,20857,++,
+May,Tuesday May 29,Tuesday,LAA,24-30,N,17397,-,
+May,Wednesday May 30,Wednesday,LAA,25-30,N,19494,+,
+May,Thursday May 31,Thursday,LAA,26-30,D,24696,++,
+June,Friday Jun 1,Friday,TOR,27-30,N,22192,+++,Yes
+June,Saturday Jun 2,Saturday,TOR,28-30,D,34674,++++,Yes
+June,Sunday Jun 3,Sunday,TOR,28-31,D,24658,-,Yes
+June,Monday Jun 4 (1),Monday,NYY,28-32,D,28016,--,Yes
+June,Monday Jun 4 (2),Monday,NYY,29-32,N,24165,+,
+June,Friday Jun 8,Friday,CLE,30-35,N,21766,-,
+June,Saturday Jun 9,Saturday,CLE,31-35,N,27038,+,Yes
+June,Sunday Jun 10,Sunday,CLE,31-36,D,22862,-,Yes
+June,Tuesday Jun 12,Tuesday,MIN,31-37,N,20340,--,
+June,Wednesday Jun 13,Wednesday,MIN,32-37,N,19206,+,
+June,Thursday Jun 14,Thursday,MIN,33-37,D,27573,++,
+June,Monday Jun 25,Monday,OAK,36-43,D,19127,------,
+June,Tuesday Jun 26,Tuesday,OAK,36-44,N,22809,-------,
+June,Wednesday Jun 27,Wednesday,OAK,36-45,N,23961,--------,
+June,Thursday Jun 28,Thursday,OAK,36-46,D,28866,---------,
+July,Thursday Jul 5,Thursday,TEX,38-51,N,21248,---,
+July,Friday Jul 6,Friday,TEX,39-51,N,27316,+,Yes
+July,Saturday Jul 7,Saturday,TEX,40-51,D,29174,++,Yes
+July,Sunday Jul 8,Sunday,TEX,40-52,D,22047,-,Yes
+July,Friday Jul 20,Friday,BOS,41-58,N,33817,-,Yes
+July,Saturday Jul 21,Saturday,BOS,42-58,N,31682,+,Yes
+July,Sunday Jul 22,Sunday,BOS,42-59,D,25012,-,Yes
+July,Friday Jul 27,Friday,CLE,44-61,N,26962,-,Yes
+July,Saturday Jul 28,Saturday,CLE,45-61,N,29097,+,
+July,Sunday Jul 29,Sunday,CLE,45-62,D,26498,-,Yes
+July,Tuesday Jul 31,Tuesday,CIN,46-62,N,24929,+,
+August,Wednesday Aug 1,Wednesday,CIN,47-62,D,24952,++,
+August,Friday Aug 10,Friday,MIN,48-68,N,24849,+,
+August,Saturday Aug 11,Saturday,MIN,48-69,N,26991,-,Yes
+August,Sunday Aug 12,Sunday,MIN,49-69,D,30105,+,Yes
+August,Monday Aug 13,Monday,CHW,50-69,N,20964,++,
+August,Tuesday Aug 14,Tuesday,CHW,50-70,N,20661,-,
+August,Wednesday Aug 15,Wednesday,CHW,50-71,D,23784,--,
+August,Tuesday Aug 21,Tuesday,CHC,52-74,N,26638,+,
+August,Wednesday Aug 22,Wednesday,CHC,52-75,N,28286,-,
+August,Thursday Aug 23,Thursday,CHW,53-75,D,22247,+,
+August,Friday Aug 24,Friday,CHW,53-76,N,23191,-,
+August,Saturday Aug 25,Saturday,CHW,53-77,N,26183,--,Yes
+August,Sunday Aug 26,Sunday,CHW,53-78,D,34036,---,Yes
+September,Friday Sep 7,Friday,STL,58-83,N,21268,+++,Yes
+September,Saturday Sep 8,Saturday,STL,59-83,N,30268,++++,Yes
+September,Sunday Sep 9,Sunday,STL,59-84,D,22212,-,Yes
+September,Monday Sep 10,Monday,HOU,59-85,N,19711,--,
+September,Tuesday Sep 11,Tuesday,HOU,59-86,N,19432,---,
+September,Wednesday Sep 12,Wednesday,HOU,59-87,D,22666,----,
+September,Monday Sep 17,Monday,MIN,61-89,N,19004,-,
+September,Tuesday Sep 18,Tuesday,MIN,61-90,N,19740,--,
+September,Wednesday Sep 19,Wednesday,MIN,61-91,D,19296,---,
+September,Thursday Sep 20,Thursday,KCR,62-91,N,20282,+,
+September,Friday Sep 21,Friday,KCR,62-92,N,22001,-,
+September,Saturday Sep 22,Saturday,KCR,63-92,N,24815,+,Yes
+September,Sunday Sep 23,Sunday,KCR,63-93,D,24230,-,Yes
